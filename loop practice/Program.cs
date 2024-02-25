@@ -142,6 +142,21 @@ namespace loop_practice
             //Console.WriteLine("product[n.....m]" + product);
 
 
+            //print 1 to give number using for loop
+
+            //Console.WriteLine("Enter a number : ");
+            //int a = int.Parse(Console.ReadLine());
+            
+            //for (int b=1; b<=a; b++)
+            //{
+            //    Console.WriteLine(b);
+            //}
+
+            //printing star patterns using For loop
+            //
+            //
+            //
+
 
         }
     }
