@@ -1,0 +1,7 @@
+E:\Visual Studio\loop practice\loop practice\bin\Debug\loop practice.exe.config
+E:\Visual Studio\loop practice\loop practice\bin\Debug\loop practice.exe
+E:\Visual Studio\loop practice\loop practice\bin\Debug\loop practice.pdb
+E:\Visual Studio\loop practice\loop practice\obj\Debug\loop practice.csproj.AssemblyReference.cache
+E:\Visual Studio\loop practice\loop practice\obj\Debug\loop practice.csproj.CoreCompileInputs.cache
+E:\Visual Studio\loop practice\loop practice\obj\Debug\loop practice.exe
+E:\Visual Studio\loop practice\loop practice\obj\Debug\loop practice.pdb
